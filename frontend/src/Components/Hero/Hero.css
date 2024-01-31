@@ -14,16 +14,12 @@
     line-height: 1.1;
 }
 
-.hero-left h2 {
-    color: #090909;
-    font-size: 26px;
-    font-weight: 600;
-}
 
 .hero-left p {
     color: #171717;
     font-size: 100px;
     font-weight: 700;
+    margin: 25px 0px;
 }
 
 .hero-hand-icon {
@@ -33,7 +29,7 @@
 }
 
 .hero-hand-icon img{
-    width: 105px;
+    width: 300px;
 }
 
 .hero-latest-btn{
