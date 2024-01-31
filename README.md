@@ -10,6 +10,10 @@ Welcome to the Shopping Website project! This is a web application developed usi
 
 - **admin:** Includes the admin panel, allowing administrators to add new products to the database.
 
+# Application Screenshots
+
+Have a look at the application screenshots in the `screenshots` folder.
+
 ## How to Run the Project
 
 1. **Backend:**
@@ -39,9 +43,6 @@ Welcome to the Shopping Website project! This is a web application developed usi
      ```bash
      npm start
      ```
-     ![Project Screenshot]
-
-     ![Uploading image.png…]()
 
 
 3. **Admin:**
@@ -64,7 +65,7 @@ Welcome to the Shopping Website project! This is a web application developed usi
 
 - The frontend fetches and displays product data from the backend.
 
-- Admins can add new products to the database by accessing the admin panel at [http://localhost:5000](http://localhost:5000).
+- Admins can add new products to the database by accessing the admin panel at [http://localhost:5173](http://localhost:5173).
 
 ## Technologies Used
 
