@@ -26,7 +26,7 @@ const AddProduct = () => {
         let formData = new FormData();
         formData.append('product', image);
 
-        await fetch('http://localhost:4000/upload', {
+        await fetch('https://shopping-website-jet.vercel.app/upload', {
             method: 'POST',
             headers: {
                 Accept: 'application/json'
@@ -41,7 +41,7 @@ const AddProduct = () => {
         }
 
         console.log(product)
-        await fetch('http://localhost:4000/addproduct', {
+        await fetch('https://shopping-website-jet.vercel.app/addproduct', {
             method: 'POST',
             headers: {
                 Accept: 'application/json', 

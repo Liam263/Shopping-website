@@ -18,7 +18,7 @@ const ListProduct = () => {
     },[])
 
     const remove_product = async (id)=>{
-        await fetch('http://localhost:4000/removeProduct',{
+        await fetch('https://shopping-website-jet.vercel.app/removeProduct',{
             method: 'POST',
             headers: {
                 Accept: 'application/json', 

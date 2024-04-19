@@ -18,7 +18,7 @@ export const LoginSignup = () => {
   const login = async ()=>{
     // console.log("Login", formData)
     let responseData ;
-     await fetch('http://localhost:4000/login', {
+     await fetch('https://shopping-website-jet.vercel.app/login', {
       method: 'POST',
       headers: {
         Accept: 'application/json',
@@ -39,7 +39,7 @@ export const LoginSignup = () => {
   const signup = async()=>{
     // console.log("Signup", formData)
     let responseData ;
-     await fetch('http://localhost:4000/signup', {
+     await fetch('https://shopping-website-jet.vercel.app/signup', {
       method: 'POST',
       headers: {
         Accept: 'application/json',
