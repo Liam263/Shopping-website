@@ -11,6 +11,8 @@ export const Popular = () => {
     .then( (data) => setProduct(data))
 
   }, [])
+
+  console.log(products)
   return (
     <div className='popular'>
         <h1>Popular in Women</h1>
