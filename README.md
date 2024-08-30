@@ -11,8 +11,40 @@ Welcome to the Shopping Website project! This is a web application developed usi
 - **admin:** Includes the admin panel, allowing administrators to add new products to the database.
 
 # Application Screenshots
+## Landing Page
 
-Have a look at the application screenshots in the `screenshots` folder.
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Screenshots/LandingPage1.png" alt="LandingPage1" style="width: 40%;"/>
+  <img src="./Screenshots/LandingPage2.png" alt="LandingPage2" style="width: 40%;"/>
+  <img src="./Screenshots/LandingPage3.png" alt="LandingPage3" style="width: 40%;"/>
+  <img src="./Screenshots/LandingPage4.png" alt="LandingPage4" style="width: 40%;"/>
+</div>
+
+## Login/SignUp Page
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Screenshots/Login.png" alt="Login" style="width: 40%;"/>
+  <img src="./Screenshots/Signup.png" alt="Signup" style="width: 40%;"/>
+</div>
+
+## Category Page
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Screenshots/ManPage.png" alt="ManPage" style="width: 40%;"/>
+  <img src="./Screenshots/WomenPage.png" alt="WomenPage" style="width: 40%;"/>
+  <img src="./Screenshots/KidPage.png" alt="KidPage" style="width: 40%;"/>
+  <img src="./Screenshots/Footer.png" alt="Footer" style="width: 40%;"/>
+</div>
+
+## Product and Cart Page
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Screenshots/Product.png" alt="Product" style="width: 40%;"/>
+  <img src="./Screenshots/Product2.png" alt="Product2" style="width: 40%;"/>
+  <img src="./Screenshots/Cart1.png" alt="Cart1" style="width: 40%;"/>
+  <img src="./Screenshots/Cart2.png" alt="Cart2" style="width: 40%;"/>
+   
+</div>
 
 ## How to Run the Project
 
